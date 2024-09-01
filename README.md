@@ -1,14 +1,15 @@
 Coding Tutorial: Building a Personalised Recipe Recommender with LangChain and Gemini on Vertex AI
-Set Up Google Cloud Account:
+![image](https://github.com/user-attachments/assets/8c6bc392-2041-4107-93d4-c9ae916d54bb)
 
-1. Sign up for a Google Cloud account at cloud.google.com.
-New customers receive $300 in free credits.
-Sign in and go to the Google Cloud Console.
-Create a new project or use an existing one.
+1. Set Up Google Cloud Account:
+- Sign up for a Google Cloud account at cloud.google.com.
+- New customers receive $300 in free credits.
+- Sign in and go to the Google Cloud Console.
+- Create a new project or use an existing one.
 
 2. Create a Colab Notebook:
-Search for "Vertex AI Colab Enterprise" in the Google Cloud Console.
-Create a new Colab notebook under your selected project.
+- Search for "Vertex AI Colab Enterprise" in the Google Cloud Console.
+- Create a new Colab notebook under your selected project.
 
 3. Install Necessary Libraries
 4. Import Libraries
@@ -22,4 +23,4 @@ Create a new Colab notebook under your selected project.
 For more details, check out my YouTube video and Medium blog:
 
 - https://www.youtube.com/watch?v=Ke0-urN3hWQ
-- 
+- https://medium.com/@roushanakrahmat/building-a-recipe-recommender-with-langchain-and-gemini-on-vertex-ai-77db6f6c5952
