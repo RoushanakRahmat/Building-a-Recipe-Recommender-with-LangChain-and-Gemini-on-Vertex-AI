@@ -1,4 +1,5 @@
 Coding Tutorial: Building a Personalised Recipe Recommender with LangChain and Gemini on Vertex AI
+
 ![image](https://github.com/user-attachments/assets/8c6bc392-2041-4107-93d4-c9ae916d54bb)
 
 1. Set Up Google Cloud Account:
